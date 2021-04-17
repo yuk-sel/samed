@@ -1,1 +1,1 @@
-# samed
+# sam-ed
